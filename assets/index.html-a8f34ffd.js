@@ -1,0 +1,1 @@
+import{_ as p}from"./plugin-vue_export-helper-c27b6911.js";import{o as e,c as t,f as o}from"./app-af427ef1.js";const c={},_=o("<p>李白</p><p>杜甫</p><p>陶渊明</p><p>孔子</p><p>孟子</p><p>苏轼</p><p>陆游</p><p>王安石</p><p>李清照</p><p>岳飞</p><p>朱熹</p><p>文天祥</p><p>高适</p>",13),n=[_];function r(s,a){return e(),t("div",null,n)}const f=p(c,[["render",r],["__file","index.html.vue"]]);export{f as default};

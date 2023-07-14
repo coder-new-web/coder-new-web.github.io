@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o,c as s,a as t,b as c}from"./app-af427ef1.js";const r={},a=c("p",null,"学习JavaScript语言，你会发现它有两种格式的模块。一种是ES6模块，简称ESM；另一种是Node.js专用的CommonJS，简称CJS。",-1);function n(m,_){return o(),s("div",null,[a,t(" more ")])}const u=e(r,[["render",n],["__file","how-nodejs-use-es6-module.html.vue"]]);export{u as default};

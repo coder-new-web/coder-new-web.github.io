@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as o,a as c}from"./app-af427ef1.js";const r={};function a(n,_){return t(),o("div",null,[c(" 站长职业是Web前端开发工程师，对以下技术有研究： ")])}const l=e(r,[["render",a],["__file","about-me.html.vue"]]);export{l as default};

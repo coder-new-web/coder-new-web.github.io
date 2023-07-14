@@ -1,0 +1,9 @@
+import{_ as n}from"./plugin-vue_export-helper-c27b6911.js";import{o as a,c as s,a as e,f as t}from"./app-af427ef1.js";const c={},i=t(`<h2 id="with" tabindex="-1"><a class="header-anchor" href="#with" aria-hidden="true">#</a> with</h2><p><code>with</code>混淆指定代码块的作用域指向。</p><div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code><span class="token keyword">const</span> user <span class="token operator">=</span> <span class="token punctuation">{</span>
+    <span class="token literal-property property">name</span><span class="token operator">:</span> <span class="token string">&quot;张三&quot;</span>
+<span class="token punctuation">}</span><span class="token punctuation">;</span>
+
+<span class="token keyword">with</span> <span class="token punctuation">(</span>user<span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    <span class="token comment">//使用 user 混淆作用域，这里的 name 会被理解为 user.name</span>
+    console<span class="token punctuation">.</span><span class="token function">log</span><span class="token punctuation">(</span>name<span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2 id="debugger" tabindex="-1"><a class="header-anchor" href="#debugger" aria-hidden="true">#</a> debugger</h2><h2 id="use-strict" tabindex="-1"><a class="header-anchor" href="#use-strict" aria-hidden="true">#</a> use strict</h2>`,5);function o(r,p){return a(),s("div",null,[e(" more "),i])}const d=n(c,[["render",o],["__file","other-statement.html.vue"]]);export{d as default};
